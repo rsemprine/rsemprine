@@ -1,4 +1,4 @@
-## Hi, I'm Wallace, an experienced Delphi developer with knowledge in Oracle and SQL Server databases!
+## Hi, I'm Rodrigo, an experienced Delphi developer with knowledge in Oracle and SQL Server databases!
 
 I am always seeking knowledge and learning opportunities. Currently, I am working on personal projects and studying new technologies.
 
